@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/baseball-score-tracker/.vs/baseball-score-tracker.slnx
+/baseball-score-tracker/bin/Debug/net10.0
+/baseball-score-tracker/obj
+/baseball-score-tracker/appsettings.Development.json
+/baseball-score-tracker/.dockerignore
+/baseball-score-tracker/Properties
+*.user
